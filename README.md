@@ -1,41 +1,26 @@
-# App
+# Next.js Starter Template
 
-## Installation prerequisites
+![Status: Work in Progress](https://img.shields.io/badge/status-WIP-orange)
 
-- Node.js: `v20.9.0`
+> [!NOTE] <br />
+> This project is a **work in progress**. <br />
+> Features may be incomplete or subject to major changes, and documentation will continue to evolve.
 
-## Setup environment
+A modern Next.js starter template with linting, formatting, testing, and more.
 
-- Create `.env` files from `.env.example`
+## Features
 
-## Scripts
+- `Tailwind CSS` - Utility-first CSS framework.
+- `ESLint` - Linting utility for JavaScript.
+- `Prettier` - Code formatter.
+- `@next/env` - Load environment variables outside of the Next.js runtime.
+- `Vitest` - Testing framework.
+- `Playwright` - End-to-end testing.
 
-Start the development server
+## Documentation
 
-```sh
-npm run dev
-```
+For project setup, configuration, and more, check out the [docs](./docs).
 
-Build the application for production
+## Contributing
 
-```sh
-npm run build
-```
-
-Start the production server
-
-```sh
-npm run start
-```
-
-Run JavaScript linter
-
-```sh
-npm run lint
-```
-
-Run code formatter
-
-```sh
-npm run format
-```
+See [Contributing Guide](./CONTRIBUTING.md).
