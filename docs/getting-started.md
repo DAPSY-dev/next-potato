@@ -31,6 +31,20 @@ Start the production server:
 npm run start
 ```
 
+Run the tests:
+
+```sh
+npm run test
+```
+
+Run the E2E tests:
+
+> Start the development or production server before running the tests.
+
+```sh
+npm run test:e2e
+```
+
 Run the JavaScript linter:
 
 ```sh
