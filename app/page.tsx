@@ -8,7 +8,7 @@ export default function Home() {
       </header>
       <main className="py-4">
         <Image
-          src="/next.svg"
+          src="/images/next.svg"
           alt="Next.js logo"
           width={100}
           height={20}
