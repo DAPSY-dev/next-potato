@@ -56,3 +56,11 @@ Format the codebase:
 ```sh
 npm run format
 ```
+
+Run the favicon check:
+
+> Start the production server before running the check.
+
+```sh
+npm run faviconCheck
+```

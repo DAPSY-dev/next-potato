@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "App",
   description: "App description",
+  appleWebApp: {
+    title: "App",
+  },
 };
 
 export default function RootLayout({

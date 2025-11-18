@@ -9,7 +9,8 @@
     "test": "vitest",
     "test:e2e": "playwright test",
     "lint": "eslint",
-    "format": "prettier --write \"**/*.{md,html,css,js,ts,mjs,mts,jsx,tsx,json}\""
+    "format": "prettier --write \"**/*.{md,html,css,js,ts,mjs,mts,jsx,tsx,json}\"",
+    "faviconCheck": "npx realfavicon check 3000"
   },
   "dependencies": {
     "@next/env": "^16.0.1",
